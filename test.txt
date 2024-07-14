@@ -1,2 +1,3 @@
 Commit lost, so testing again git log -p command not working
 Testing on github
+ Hi, this is a test file
